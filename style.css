@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 5px 12px;
+    border-radius: 10px;
+}
+.carousel-unit p{
+    margin: 25px 0;
+}
+.smartphone-header{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+p{
+    color: dimgray;
+}
+.smartphone-header small{
+    color: orange;
+}
+.smartphone-body .card , .card-footer{
+    border: none;
+}
+.smartphone-body .card{
+    box-shadow: 1px 1px 30px lightgray;
+}
+.card h5, p{
+    display: flex ;
+    justify-content: center;
+}
+.justify-content{
+    display: flex;
+    justify-content: center;
+}
+.mobile-unit{
+    margin-bottom: 150px;
+}
+.laptop-unit{
+    margin-bottom: 200px;
+}
+/* .categorie-head{
+    border-bottom:500px;
+    border-style: solid;
+    border-image-slice: 1;
+    /* border-width:100px; */
+    /* border-image:linear-gradient(to left, green 0%, red 100%); */
+/* }  */
+*/
+.catagory-style{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    /* justify-content: center; */
+    /* background-image: linear-gradient(to left, red 0%, green 100%); */
+}
